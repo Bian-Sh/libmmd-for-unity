@@ -1,3 +1,7 @@
+# PS:If your system is windows which requires a windows version "I18N.CJK.dll" which can be found in your Unity Editor!---by superowner
+
+
+
 # Libmmd-for-Unity
 
 Libmmd-for-Unity is a Unity version of [libmmd](https://github.com/itsuhane/libmmd), which is for loading mikumikudance files at **runtime** in Unity 3D.
